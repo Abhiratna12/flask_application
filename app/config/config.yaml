@@ -1,0 +1,4 @@
+secret:
+  secret_key: "JWT Token" 
+  user : "ml_engineer"
+  algorithm : "HS256"

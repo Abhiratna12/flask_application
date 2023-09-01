@@ -1,0 +1,8 @@
+pandas
+numpy
+flask
+PyYAML
+requests
+json
+logging
+jwt
